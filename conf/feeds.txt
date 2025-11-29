@@ -4,5 +4,5 @@ https://news.cnrs.fr/rss
 # Informatique
 https://blogbinaire.larecherche.fr/feed
 
-# design
+# Design
 https://feeds.feedburner.com/dezeen?format=xml

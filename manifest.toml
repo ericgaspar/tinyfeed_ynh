@@ -14,9 +14,8 @@ maintainers = ["eric_G"]
 [upstream]
 license = "MIT"
 website = "https://feed.lovergne.dev/"
-demo = "https://demo.example.com"
+demo = "https://feed.lovergne.dev/demo/"
 admindoc = "https://feed.lovergne.dev/"
-userdoc = "https://yunohost.org/apps"
 code = "https://github.com/TheBigRoomXXL/tinyfeed"
 
 [integration]
