@@ -1,0 +1,11 @@
+# Software Engineering
+https://lovergne.dev/rss.xml
+
+# Cyber Security
+https://words.filippo.io/rss/
+https://feeds.feedburner.com/TroyHunt
+
+# Frontend
+https://tonsky.me/atom.xml
+https://andy-bell.co.uk/feed.xml
+https://www.htmhell.dev/feed.xml
